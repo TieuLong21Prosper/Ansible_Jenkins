@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-06T08:07:26.139Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="uUoYvp9Mq_sgIOqwdH0N" version="24.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-06T08:11:45.979Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="WCsrMFKK0PNo2YSXdQav" version="24.2.2" type="github">
   <diagram name="Trang-1" id="6OByur827_n_l1syePKX">
     <mxGraphModel dx="1853" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -87,6 +87,9 @@
         </mxCell>
         <mxCell id="ZPUx-bkPOGzo_jNu8LD0-34" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;SSH&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ZPUx-bkPOGzo_jNu8LD0-1">
           <mxGeometry x="420" y="285" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZPUx-bkPOGzo_jNu8LD0-38" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;VPC&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ZPUx-bkPOGzo_jNu8LD0-1">
+          <mxGeometry x="30" y="10" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
